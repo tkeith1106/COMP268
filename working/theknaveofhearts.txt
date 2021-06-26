@@ -1,0 +1,5 @@
+The Knave of Hearts
+An attendant to the King and Queen. The Knave is generally indifferent to anything and easily startled.
+OH MY! These tarts are delicious! Hey Wait, what!?. Who are you? You cant be here, it is too late!!!!.|You have already seen too much, I do not want to do this but I have no choice.|[The Knave of Hearts takes a defensive stance and pulls his sword!]
+I am sorry I had to do this but you caught me red handed and that could not stand!.|[You have died by the hand of the Knave of Hearts!]
+Oh owwwwwwwwiiiiieeeee, you really did it this time I am bleeding and must get medical attention|[The Knave of Hearts runs away in tears and blood!]

@@ -1,0 +1,4 @@
+Loot Room
+A random room full of loot.. YAY! Better hurry and grab something before you get caught!
+go left
+go right

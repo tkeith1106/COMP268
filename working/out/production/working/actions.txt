@@ -1,0 +1,6 @@
+drop item
+run
+attack
+pickup item
+sneak away
+sneak attack

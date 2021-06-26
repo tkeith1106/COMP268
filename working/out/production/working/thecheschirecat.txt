@@ -1,0 +1,5 @@
+The Cheschire Cat
+The Cheschire Cat is a wide-eyed and mischievous cat with a distinctive grin. Who has come to help Alice.
+Wake up Alice!! You have been placed into the dungeon and are awaiting trial by the King and Queen of Hearts.|Take the Golden Key and Escape to the White Rabbits Hut, for if you do not then you are in for a certain death!.|The king and queen do not play fairly with their trials!
+Quick Alice! run take any direction out of here but hurry! I hear the guards coming now!!!
+Why would you not take the Golden Key!? You will surely die now.|[You hear guards marching down the hallway to take you to the guillotine!, you are surely going to die!]
