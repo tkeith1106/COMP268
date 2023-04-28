@@ -1,2 +1,2 @@
 # COMP268
-One of my very first programs for a class in school.
+A class I took in java which is one of my first intro's into programming
